@@ -1,0 +1,2 @@
+# VelocityStarterNext
+VelocityStarterNext - Boilerplate Nextjs
